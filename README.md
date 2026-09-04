@@ -82,46 +82,29 @@ Database
 SQLite
 
 🏗️ System Architecture
-                    ┌─────────────────┐
-                    │      USER       │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │  User Profile   │
-                    │ Age / Health /   │
-                    │ Occupation      │
-                    └────────┬────────┘
-                             │
-                             ▼
-              ┌──────────────────────────┐
-              │ Environmental Data Layer │
-              └────────────┬─────────────┘
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-        ┌──────────────┐      ┌──────────────┐
-        │ Weather API  │      │    AQI API   │
-        └──────┬───────┘      └──────┬───────┘
-               │                     │
-               └──────────┬──────────┘
-                          ▼
-                 ┌─────────────────┐
-                 │   Risk Engine   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   AI Advisory   │
-                 └────────┬────────┘
-                          │
-                          ▼
-             ┌────────────────────────┐
-             │ Personalized Dashboard │
-             │ Risk + Advice + Trends │
-             └────────────────────────┘
-🚀 Future Scope
+ User
+ ↓
+Profile & Location
+ ↓
+Live Weather + AQI Data
+ ↓
+Data Processing
+ ↓
+Personalized Risk Engine
+ ↓
+AI-Based Analysis
+ ↓
+Personalized Advisory
+ ↓
+Risk Level + Recommendations
+ ↓
+Dashboard
+ ↓
+7-Day Trends + What-If Simulation
+ ↓
+User
 
+🚀 Future Scope
 Possible future improvements include:
 
 📍 Automatic location detection
