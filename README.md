@@ -22,31 +22,48 @@ User Profile → Live Weather & AQI → Risk Analysis → AI Personalization →
 The system provides:
 
 🌫️ Real-time AQI information
+
 🌡️ Current weather conditions
+
 👤 Personalized user profiles
+
 🧠 AI-generated environmental advisories
+
 ⚠️ Personalized risk classification
+
 📈 Environmental trends and history
+
 🔮 What-If environmental scenario simulation
+
 ✨ Key Features
+
 🌤️ Real-Time Environmental Dashboard
 
 Displays important environmental parameters such as:
 
 AQI
+
 Temperature
+
 Humidity
+
 Wind conditions
+
 Weather information
+
+
 👤 Personalized Risk Assessment
 
 The system considers user information such as:
 
 Age group
+
 Health condition
+
 Occupation/activity level
 
 to provide a more relevant risk assessment.
+
 
 🤖 AI-Powered Advisory
 
@@ -67,50 +84,93 @@ For example:
 This helps users understand potential environmental scenarios instead of simply receiving a static warning.
 
 🛠️ Technology Stack
+
 Frontend
+
 Streamlit
+
 Backend
+
 Python
+
 APIs & Data
+
 Open-Meteo for weather data
+
 AQI data source/API
+
 AI
+
 Free-tier LLM API
+
 Visualization
+
 Plotly / Streamlit Charts
+
 Database
+
 SQLite
 
+
 🏗️ System Architecture
+
  User
+ 
  ↓
+
 Profile & Location
+
  ↓
+
 Live Weather + AQI Data
+
  ↓
+
 Data Processing
+
  ↓
+
 Personalized Risk Engine
+
  ↓
+
 AI-Based Analysis
+
  ↓
+
 Personalized Advisory
+
  ↓
+
 Risk Level + Recommendations
+
  ↓
+
 Dashboard
+
  ↓
+
 7-Day Trends + What-If Simulation
+
  ↓
+
 User
 
+
 🚀 Future Scope
+
 Possible future improvements include:
 
 📍 Automatic location detection
+
 🔔 Smart environmental alerts
+
 🗺️ City-wise environmental risk maps
+
 📱 Mobile application
+
 🎙️ Voice-based interaction
+
 📊 Long-term personal exposure analytics
+
 🧠 Improved predictive environmental risk models
