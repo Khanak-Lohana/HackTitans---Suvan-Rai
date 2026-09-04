@@ -1,7 +1,7 @@
 # HackTitans---Suvan-Rai
 
 # AI-Powered Personalized Weather & AQI Health Advisory
-AirGuard AI is an intelligent environmental health advisory system that combines real-time weather and Air Quality Index (AQI) data with user-specific information to provide personalized environmental risk insights.
+EnviroGuard AI is an intelligent environmental health advisory system that combines real-time weather and Air Quality Index (AQI) data with user-specific information to provide personalized environmental risk insights.
 
 Unlike generic weather and AQI applications that provide the same warning to everyone, AirGuard AI considers factors such as age group, health condition, and occupation/activity level to generate recommendations tailored to the individual.
 
@@ -11,11 +11,11 @@ Generic weather and AQI alerts use the same thresholds for everyone, even though
 
 For example, an outdoor worker and an indoor student may experience the same AQI but have very different levels of exposure.
 
-AirGuard AI aims to bridge this gap by transforming environmental data into personalized, actionable guidance.
+EnviroGuard AI aims to bridge this gap by transforming environmental data into personalized, actionable guidance.
 
 💡 Our Solution
 
-AirGuard AI follows a simple pipeline:
+EnviroGuard AI follows a simple pipeline:
 
 User Profile → Live Weather & AQI → Risk Analysis → AI Personalization → Actionable Advisory
 
