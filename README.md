@@ -5,7 +5,7 @@ EnviroGuard AI is an intelligent environmental health advisory system that combi
 
 Unlike generic weather and AQI applications that provide the same warning to everyone, AirGuard AI considers factors such as age group, health condition, and occupation/activity level to generate recommendations tailored to the individual.
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Generic weather and AQI alerts use the same thresholds for everyone, even though environmental conditions can affect people differently.
 
@@ -13,7 +13,7 @@ For example, an outdoor worker and an indoor student may experience the same AQI
 
 EnviroGuard AI aims to bridge this gap by transforming environmental data into personalized, actionable guidance.
 
-💡 Our Solution
+# 💡 Our Solution
 
 EnviroGuard AI follows a simple pipeline:
 
@@ -37,7 +37,7 @@ The system provides:
 
 ✨ Key Features
 
-🌤️ Real-Time Environmental Dashboard
+# 🌤️ Real-Time Environmental Dashboard
 
 Displays important environmental parameters such as:
 
@@ -52,7 +52,7 @@ Wind conditions
 Weather information
 
 
-👤 Personalized Risk Assessment
+# 👤 Personalized Risk Assessment
 
 The system considers user information such as:
 
@@ -65,15 +65,15 @@ Occupation/activity level
 to provide a more relevant risk assessment.
 
 
-🤖 AI-Powered Advisory
+# 🤖 AI-Powered Advisory
 
 An AI layer converts environmental conditions and user information into simple, understandable recommendations.
 
-📈 Trend Analysis
+# 📈 Trend Analysis
 
 Users can view historical environmental conditions and identify whether air quality is improving or worsening.
 
-🔮 What-If Simulator
+# 🔮 What-If Simulator
 
 Users can simulate changes in environmental conditions and see how the personalized risk level changes.
 
@@ -83,7 +83,7 @@ For example:
 
 This helps users understand potential environmental scenarios instead of simply receiving a static warning.
 
-🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 Frontend
 
@@ -112,7 +112,7 @@ Database
 SQLite
 
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
  User
  
@@ -157,7 +157,7 @@ Dashboard
 User
 
 
-🚀 Future Scope
+# 🚀 Future Scope
 
 Possible future improvements include:
 
